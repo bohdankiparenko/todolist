@@ -1,5 +1,5 @@
 """
-All commands that are used in aplication
+All commands that are used in the application
 """
 import datetime as dt
 import json
